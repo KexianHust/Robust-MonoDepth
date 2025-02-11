@@ -17,9 +17,10 @@
 </div>
 
 ## :eyes: Updates
-* [TODO]: Code, model, and data will be released ASAP.
 * [12/2023] The paper is accepted by IJCV.
 
+## :wrench: Setup
+Download the [model](https://drive.google.com/file/d/1HMm9hyvKH2oMAL1PJlVsRV5yq0Sl2MdO/view?usp=sharing)
 
 ## :blush: Citation
 If you find our work useful in your research, please consider citing the paper.
